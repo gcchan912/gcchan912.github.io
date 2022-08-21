@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## 虚拟变现课程项目·拒绝割韭菜
 
-You can use the [editor on GitHub](https://github.com/gcchan912/gcchan912.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+带你们分享一个人人可做，人人可经营的虚拟资源课程变现项目，
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+简单来说，日赚300-1000元是毫无难题可言。
 
-### Markdown
+### 1.这个虚拟资源项目平台是做什么的？
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+（1）资源项目站是一个自动发货的知识付费平台，里面的课程资源，都是由站长每日更新的，升级站长后无需手动去更新资源，也无需担心资源问题。
 
-```markdown
-Syntax highlighted code block
+（2）开通分站成为站长后可以找平台客服拿引流的软件，自动采集群的，或者被动引流的系统，即使你没有什么人脉，也没什么群，前期你简简单单发朋友圈，也是可以达到日入轻松100+的。
 
-# Header 1
-## Header 2
-### Header 3
+（3）知识付费适合哪类人做？这个人群是不限制的，平台内的内容主要涵盖了推广，引流，零撸，网赚，项目交流，学习，PS课程等等众多种类的资源课件，用来当做主副业都是可以实施的，当成主业做每天300-1000也是轻松的，每天没事的时候加加群，采集下人脉，商城虚拟货源自动发货，都是纯利润！
 
-- Bulleted
-- List
+（4）利润大吗？下单人多吗？
 
-1. Numbered
-2. List
+我就这么给你说兄弟，我们平台的资源需要的人太多太多了，平台的每个资源都是9.9元起步，外面都是卖188 500 1000的东西，你说下单的人多会不会多？
 
-**Bold** and _Italic_ and `Code` text
+营业执照办理这个不陌生吧？你即使找人代办是不是得花个千儿八百的 ，在我们平台网站 几块钱就可以学会，难道不香？学会后还能收费几百块帮别人办理 ，下单的人多了去了！
 
-[Link](url) and ![Image](src)
-```
+（6）项目收费贵吗？
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+歪特？？有啥收费的项目，所有资源课程价格都是几十元，我想说的是全网最低，你不信全网去找 低于1000的真没几个！ 咱们无非就是取决于用户自己是否需要开通分站成为站长的加盟费用！
 
-### Jekyll Themes
+外面卖几百上千的项目，在本平台所有的项目全部几十元
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gcchan912/gcchan912.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+平台每天会更新10-30个全网最新项目，购买项目后会有详细教程和操作步骤自动发货到你的邮箱。
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+（如果你想通过互联网赚钱那就快来吧！没有我们没有的，只有你想不到的！）
