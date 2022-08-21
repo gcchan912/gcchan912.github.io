@@ -32,7 +32,7 @@
 
 ![image](https://user-images.githubusercontent.com/111679859/185785489-57141cbb-9985-48b5-811a-ff0db5be44bd.png)
 
-**领取备注 2022中视频**
+**领取发送 中视频666**
 
-![WechatIMG989](https://user-images.githubusercontent.com/111679859/185785597-7309336b-94bb-441e-b10e-73c86b0a48f2.jpeg)
+![qrcode_for_gh_d4489f68b588_430](https://user-images.githubusercontent.com/111679859/185787442-ae4f3fd0-4935-4444-8b30-cc742964396c.jpg)
 
